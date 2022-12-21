@@ -1,4 +1,4 @@
-# Comparative Analysis on the Social Determinants Of Health for Type-2-Diabetes
+# Comparative Analysis on the Social Determinants Of Health for Type-2-Diabetes with a Streamlit Web App Implementation
 
 ## INTRODUCTION
 
@@ -154,6 +154,16 @@ mitigation.
 
 • With additional research, machine learning models can become potent tools 
 for creating more accurate and precise diabetes survey dataset predictions.
+
+## Streamlit Web App Implementation
+
+![image](https://user-images.githubusercontent.com/50633694/208811479-6ada9815-7439-4dfb-bd70-2569197f5e3d.png)
+
+![image](https://user-images.githubusercontent.com/50633694/208811533-946a3a1b-5e50-480e-afe9-7fda6c81bc00.png)
+
+![image](https://user-images.githubusercontent.com/50633694/208811741-c11db7be-8272-4634-803b-212289b7ce5a.png)
+
+
 
 ## References
 

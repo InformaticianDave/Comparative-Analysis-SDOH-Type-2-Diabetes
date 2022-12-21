@@ -1,4 +1,4 @@
-# SDOH-Type-2-Diabetes
+# Comparative Analysis on the Social Determinants Of Health for Type-2-Diabetes
 
 ## INTRODUCTION
 

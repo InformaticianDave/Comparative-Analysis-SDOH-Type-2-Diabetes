@@ -99,6 +99,21 @@ more likely to have diabetes
 
 ![image](https://user-images.githubusercontent.com/50633694/208809177-5077b307-6ab8-4545-939f-9a1e43d36fcd.png)
 
+## Python Classification Models (TP, TN, FP, FN)
+
+![DecisionTreeClassifier](https://user-images.githubusercontent.com/50633694/208810628-fc4e7408-969e-4923-940a-9a751aa4e66b.png)
+
+![GaussianNB](https://user-images.githubusercontent.com/50633694/208810655-be951922-316c-41ba-a84b-83c805a4abb3.png)
+
+![KNeighborsClassifier](https://user-images.githubusercontent.com/50633694/208810665-d66894a1-249b-4845-974b-782273ab3d94.png)
+
+![Logistical_Regression](https://user-images.githubusercontent.com/50633694/208810674-a1a08046-88f0-40a8-9f60-6a3f1ef59735.png)
+
+![MLPClassifier](https://user-images.githubusercontent.com/50633694/208810684-5ee16690-fde0-41f0-b74d-493f20975664.png)
+
+![RandomForestClassifier](https://user-images.githubusercontent.com/50633694/208810700-cdec29a3-6be9-4342-a40d-24fc8b0ab9ad.png)
+
+
 ## Discussion
 
 • On Figure 1, the SAS ROC Curve and AUC Score for Logistic Regression 
